@@ -1,3 +1,5 @@
+> Based on [rdp/open-source-how-to-popularize-your-project](https://github.com/rdp/open-source-how-to-popularize-your-project) by [@rdp](https://github.com/rdp).
+
 A list of notes/tips for how to "make your open source project successful".
 
 <!--TODO:-->
